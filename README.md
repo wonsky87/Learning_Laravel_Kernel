@@ -1,5 +1,5 @@
 # Learning_Laravel_Kernel
-# 相同文章（https://sunnyingit.github.io/book/section_php/sericeprovider.html）
+
 Laravel核心代码学习
 
 ## 前言
